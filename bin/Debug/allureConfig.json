@@ -1,0 +1,9 @@
+﻿{
+  "allure": {
+    "directory": "allure-results",
+    "links": [
+      "https://github.com/ivavryk/Newtest/{issue}",
+      "https://github.com/ivavryk/Newtest/{tms}"
+    ]
+  }
+}
